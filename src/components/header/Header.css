@@ -1,0 +1,14 @@
+.logo-area{
+    height: 50px;
+    border-radius: 50%;
+}
+.cart-area{
+    position: relative;
+    font-size: 17px!important;
+    padding: 1px!important;
+    top: -6px!important;
+    background-color: rgb(36, 36, 36)!important;
+    width: 15px!important;
+    display: inline-block;
+    border-radius: 50%;
+}

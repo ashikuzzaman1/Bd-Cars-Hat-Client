@@ -1,0 +1,12 @@
+.add-car form{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.add-car form input{
+    width: 40%;
+    margin-bottom: 20px;
+    padding: 10px;
+}

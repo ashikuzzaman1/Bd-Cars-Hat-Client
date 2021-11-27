@@ -1,0 +1,84 @@
+[
+    {
+      "key": 1,
+      "name": "Hyundai Verna",
+      "about": "With new looks like, features and powertrains, the 2020 Verna is more than just a facelift.",
+      "rating": 4.5,
+      "seats": 4,
+      "price": 9000,
+      "img": "https://stimg.cardekho.com/images/carexteriorimages/630x420/Hyundai/Verna/7729/1616055133475/front-left-side-47.jpg?tr=w-456"
+    },
+    {
+      "key": 2,
+      "name": "Tata Nexon",
+      "about": "Tata has made some tempting changes to the Nexon facelift to make it more enticing.",
+      "rating": 4.8,
+      "seats": 4,
+      "price": 7200,
+      "img": "https://stimg.cardekho.com/images/carexteriorimages/630x420/Tata/Nexon/7384/1614326304397/front-left-side-47.jpg?tr=w-456"
+    },
+    {
+      "key": 3,
+      "name": "Renault Triber",
+      "about": "Renault Triber looking for a spacious family car that can technically seat seven and haul.",
+      "rating": 4.2,
+      "seats": 4,
+      "price": 6000,
+      "img": "https://stimg.cardekho.com/images/carexteriorimages/630x420/Renault/Triber/7421/1630387234995/front-left-side-47.jpg?tr=w-456"
+    },
+    {
+      "key": 4,
+      "name": "Maruti XL6",
+      "about": "Maruti The Ertiga received a generation change earlier this year where it got new features.",
+      "rating": 4.7,
+      "seats": 6,
+      "price": 7800,
+      "img": "https://stimg.cardekho.com/images/carexteriorimages/630x420/Maruti/XL6/7030/1585568187153/front-left-side-47.jpg?tr=w-456"
+    },
+    {
+      "key": 5,
+      "name": "Maruti Ertiga",
+      "about": "Maruti new looks like, features and powertrains, the 2020 Verna is more than just facelift.",
+      "rating": 4.5,
+      "seats": 6,
+      "price": 8000,
+      "img": "https://stimg.cardekho.com/images/carexteriorimages/630x420/Maruti/Ertiga/7048/1611730397556/front-left-side-47.jpg?tr=w-456"
+    },
+
+    {
+      "key": 6,
+      "name": "Mahindra XUV700",
+      "about": "Mahindra XUV700 With many segment-first features, seating and variant options.",
+      "rating": 4.3,
+      "seats": 4,
+      "price": 8500,
+      "img": "https://stimg.cardekho.com/images/carexteriorimages/630x420/Mahindra/XUV700/8620/1633939302512/front-left-side-47.jpg?tr=w-456"
+    },
+    {
+      "key": 7,
+      "name": "Tata Punch",
+      "about": "Tata Punch With the Punch, Tata is trying to deliver a knockout blow to its competition.",
+      "rating": 4.0,
+      "seats": 4,
+      "price": 6500,
+      "img": "https://stimg.cardekho.com/images/carexteriorimages/630x420/Tata/Punch/7513/1633329515070/front-left-side-47.jpg?tr=w-456"
+    },
+    {
+      "key": 8,
+      "name": "Honda City",
+      "about": "Honda City new looks, features and powertrains, the 2020 Verna is more than just facelift.",
+      "rating": 4.8,
+      "seats": 4,
+      "price": 7900,
+      "img": "https://stimg.cardekho.com/images/carexteriorimages/630x420/Honda/City-2017-2020/7259/1618395850908/front-left-side-47.jpg?tr=w-456"
+    },
+    {
+      "key": 9,
+      "name": "Maruti Dzire",
+      "about": "Maruti Dzire looking for a spacious family car that can technically seat seven and hauls.",
+      "rating": 4.5,
+      "seats": 4,
+      "price": 8200,
+      "img": "https://stimg.cardekho.com/images/carexteriorimages/630x420/Maruti/Dzire-2020/7664/1584705998420/front-left-side-47.jpg?tr=w-456"
+    }
+]
